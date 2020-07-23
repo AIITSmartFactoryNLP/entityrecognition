@@ -1,0 +1,16 @@
+version: '2.2'
+services:
+  web:
+    build: .
+    ports:
+      - "3007:8080"
+    expose:
+      - "8080"
+    volumes:
+      - ../logs:/usr/local/tomcat/logs
+      - ../files:/files
+    restart: always
+    environment:
+      - JAVA_OPTS=$JAVA_OPTS -Duser.timezone=Asia/Shanghai
+      - FILE_BASE_DIR=/tmp
+      - CACHE_ENABLED=false

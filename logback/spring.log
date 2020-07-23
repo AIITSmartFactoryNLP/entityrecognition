@@ -1,0 +1,50 @@
+2020-07-23 10:55:41.579  INFO 44268 --- [main] .o.a.e.EntityrecognitionApplicationTests : Starting EntityrecognitionApplicationTests on wangzhenzhongdeMacBook-Pro.local with PID 44268 (started by wangzhenzhong in /Users/wangzhenzhong/IdeaProjects/entityrecognition)
+2020-07-23 10:55:41.588  INFO 44268 --- [main] .o.a.e.EntityrecognitionApplicationTests : No active profile set, falling back to default profiles: default
+2020-07-23 10:55:44.636  INFO 44268 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-23 10:55:45.176  INFO 44268 --- [main] .o.a.e.EntityrecognitionApplicationTests : Started EntityrecognitionApplicationTests in 4.388 seconds (JVM running for 6.816)
+2020-07-23 10:55:45.930  INFO 44268 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-23 11:00:32.699  INFO 44338 --- [main] c.o.a.e.EntityrecognitionApplication     : Starting EntityrecognitionApplication on wangzhenzhongdeMacBook-Pro.local with PID 44338 (/Users/wangzhenzhong/IdeaProjects/entityrecognition/target/classes started by wangzhenzhong in /Users/wangzhenzhong/IdeaProjects/entityrecognition)
+2020-07-23 11:00:32.704  INFO 44338 --- [main] c.o.a.e.EntityrecognitionApplication     : No active profile set, falling back to default profiles: default
+2020-07-23 11:00:34.366  INFO 44338 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3007 (http)
+2020-07-23 11:00:34.396  INFO 44338 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-23 11:00:34.397  INFO 44338 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-23 11:00:34.528  INFO 44338 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-23 11:00:34.528  INFO 44338 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1749 ms
+2020-07-23 11:00:35.057  INFO 44338 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-23 11:00:35.349  INFO 44338 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3007 (http) with context path ''
+2020-07-23 11:00:35.359  INFO 44338 --- [main] c.o.a.e.EntityrecognitionApplication     : Started EntityrecognitionApplication in 3.475 seconds (JVM running for 4.113)
+2020-07-23 11:00:44.391  INFO 44338 --- [http-nio-3007-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-23 11:00:44.391  INFO 44338 --- [http-nio-3007-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-23 11:00:44.416  INFO 44338 --- [http-nio-3007-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 24 ms
+2020-07-23 11:00:44.531  WARN 44338 --- [http-nio-3007-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2020-07-23 11:00:49.223  WARN 44338 --- [http-nio-3007-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.HttpRequestMethodNotSupportedException: Request method 'POST' not supported]
+2020-07-23 11:01:48.348  INFO 44360 --- [main] .o.a.e.EntityrecognitionApplicationTests : Starting EntityrecognitionApplicationTests on wangzhenzhongdeMacBook-Pro.local with PID 44360 (started by wangzhenzhong in /Users/wangzhenzhong/IdeaProjects/entityrecognition)
+2020-07-23 11:01:48.352  INFO 44360 --- [main] .o.a.e.EntityrecognitionApplicationTests : No active profile set, falling back to default profiles: default
+2020-07-23 11:01:52.239  INFO 44360 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-23 11:01:52.975  INFO 44360 --- [main] .o.a.e.EntityrecognitionApplicationTests : Started EntityrecognitionApplicationTests in 5.577 seconds (JVM running for 9.016)
+2020-07-23 11:01:53.851  INFO 44360 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2020-07-23 11:04:53.938  INFO 44383 --- [main] c.o.a.e.EntityrecognitionApplication     : Starting EntityrecognitionApplication on wangzhenzhongdeMacBook-Pro.local with PID 44383 (/Users/wangzhenzhong/IdeaProjects/entityrecognition/target/classes started by wangzhenzhong in /Users/wangzhenzhong/IdeaProjects/entityrecognition)
+2020-07-23 11:04:53.940  INFO 44383 --- [main] c.o.a.e.EntityrecognitionApplication     : No active profile set, falling back to default profiles: default
+2020-07-23 11:04:55.456  INFO 44383 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 3007 (http)
+2020-07-23 11:04:55.474  INFO 44383 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2020-07-23 11:04:55.475  INFO 44383 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.36]
+2020-07-23 11:04:55.545  INFO 44383 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2020-07-23 11:04:55.545  INFO 44383 --- [main] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1420 ms
+2020-07-23 11:04:55.919  INFO 44383 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-23 11:04:56.521  INFO 44383 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 3007 (http) with context path ''
+2020-07-23 11:04:56.531  INFO 44383 --- [main] c.o.a.e.EntityrecognitionApplication     : Started EntityrecognitionApplication in 3.451 seconds (JVM running for 3.976)
+2020-07-23 11:05:23.855  INFO 44383 --- [http-nio-3007-exec-1] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring DispatcherServlet 'dispatcherServlet'
+2020-07-23 11:05:23.856  INFO 44383 --- [http-nio-3007-exec-1] o.s.web.servlet.DispatcherServlet        : Initializing Servlet 'dispatcherServlet'
+2020-07-23 11:05:23.901  INFO 44383 --- [http-nio-3007-exec-1] o.s.web.servlet.DispatcherServlet        : Completed initialization in 45 ms
+2020-07-23 11:05:24.130  WARN 44383 --- [http-nio-3007-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'dialog' is not present]
+2020-07-23 11:05:29.569  WARN 44383 --- [http-nio-3007-exec-2] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'dialog' is not present]
+2020-07-23 11:06:41.608  WARN 44383 --- [http-nio-3007-exec-3] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'dialog' is not present]
+2020-07-23 11:15:50.004  WARN 44383 --- [http-nio-3007-exec-6] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'dialog' is not present]
+2020-07-23 12:35:31.133  WARN 44383 --- [http-nio-3007-exec-8] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'dialog' is not present]
+2020-07-23 12:36:24.820  WARN 44383 --- [http-nio-3007-exec-9] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'dialog' is not present]
+2020-07-23 12:37:35.037  WARN 44383 --- [http-nio-3007-exec-1] .w.s.m.s.DefaultHandlerExceptionResolver : Resolved [org.springframework.web.bind.MissingServletRequestParameterException: Required String parameter 'dialog' is not present]
+2020-07-23 14:00:59.986  INFO 45087 --- [main] .o.a.e.EntityrecognitionApplicationTests : Starting EntityrecognitionApplicationTests on wangzhenzhongdeMacBook-Pro.local with PID 45087 (started by wangzhenzhong in /Users/wangzhenzhong/IdeaProjects/entityrecognition)
+2020-07-23 14:00:59.990  INFO 45087 --- [main] .o.a.e.EntityrecognitionApplicationTests : No active profile set, falling back to default profiles: default
+2020-07-23 14:01:02.858  INFO 45087 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2020-07-23 14:01:03.342  INFO 45087 --- [main] .o.a.e.EntityrecognitionApplicationTests : Started EntityrecognitionApplicationTests in 4.166 seconds (JVM running for 6.329)
+2020-07-23 14:01:04.537  INFO 45087 --- [SpringContextShutdownHook] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
